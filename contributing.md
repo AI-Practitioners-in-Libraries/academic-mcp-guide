@@ -23,9 +23,9 @@ If a listed server is no longer maintained or its link is broken, please open an
 
 ## Questions
 
-Open an issue or email [loisw@uchicago.edu](loisw@uchicago.edu). 
+Open an issue or email loisw@uchicago.edu 
 
 ## Reuse and Attribution
 
-This guide was created by the AI Practitioners in Libraries Community of Practice. 
+This guide was created by the AI Practitioners in Academic Libraries Community of Practice. 
 You are welcome to reuse, adapt, or link to this resource. 
