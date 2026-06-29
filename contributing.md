@@ -1,7 +1,5 @@
 # Contributing to the Academic MCP Guide and Directory
 
-Thank you for helping maintain this resource! 
-
 ## How to Suggest a New Server
 
 Open an issue or submit a pull request with the following information:
@@ -25,10 +23,9 @@ If a listed server is no longer maintained or its link is broken, please open an
 
 ## Questions
 
-Open an issue or reach out through the AI Practitioners in Libraries Community of Practice.
+Open an issue or email [loisw@uchicago.edu](loisw@uchicago.edu). 
 
 ## Reuse and Attribution
 
 This guide was created by the AI Practitioners in Libraries Community of Practice. 
-You are welcome to reuse, adapt, or link to this resource. If you adapt it, 
-a link back to this repository is appreciated but not required.
+You are welcome to reuse, adapt, or link to this resource. 
