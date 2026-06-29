@@ -1,7 +1,7 @@
 # Academic MCP Guide and Directory
 A curated directory of MCP servers relevant to academic libraries, research, and higher education. Maintained by the AI Practitioners in Libraries Community of Practice. 
 
-Interested in contributing? See [contributing.md](contributing.md).
+**To contribute, see [contributing.md](contributing.md).**
 
 ## Table of Contents
 
