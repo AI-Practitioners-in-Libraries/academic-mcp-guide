@@ -17,7 +17,7 @@ Before MCP, connecting an AI application to external data sources required custo
 
 ** Host** : the AI application or environment in which the MCP client runs. Examples include Claude Desktop, an IDE plugin, or a custom AI assistant. The host manages the client's connections to MCP servers.  
 
-## MCP vs RAG 
+##MCP vs RAG 
 
 Another common approach to connecting AI with external information is Retrieval-Augmented Generation, or RAG. Both RAG and MCP helps with LMs' currency of knowledge and allow AI applications or models to draw on outside sources rather than relying solely on what the model learned during training. They differ in how that outside information is managed. 
 
