@@ -61,6 +61,7 @@ Other such directories can be found online, such as:
 | [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv's repository | Community | Free | 
 | [Google Scholar](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | Google Scholar papers | Community | Free |
 | [PubMed](https://claude.com/resources/tutorials/using-the-pubmed-connector-in-claude) | PubMed articles and clinical studies | U.S. National Library of Medicine | Free | 
+| [Northwestern University Libraries Digital Collections](https://api.dc.library.northwestern.edu/api/v2/mcp) | Northwestern University Libraries Digital Collections | Northwestern University Libraries | Free |
 
 ### How to Evaluate Servers
 
