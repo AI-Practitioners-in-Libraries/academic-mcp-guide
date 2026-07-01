@@ -60,6 +60,7 @@ Other such directories can be found online, such as:
 | [Elsevier Scopus](https://github.com/qwe4559999/scopus-mcp) | Elsevier Scopus API | Community | Institutional/API key | 
 | [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) | ArXiv's repository | Community | Free | 
 | [Google Scholar](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | Google Scholar papers | Community | Free |
+| [PubMed](https://claude.com/resources/tutorials/using-the-pubmed-connector-in-claude) | PubMed articles and clinical studies | U.S. National Library of Medicine | Free | 
 
 ### How to Evaluate Servers
 
