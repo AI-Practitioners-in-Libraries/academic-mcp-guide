@@ -37,4 +37,4 @@ like to add or change, submit a pull request with your proposed content, or emai
 ## Reuse and Attribution
 
 This guide was created by the AI Practitioners in Academic Libraries Community of Practice. 
-You are welcome to reuse, adapt, or link to this resource. 
+You are welcome to fork and adapt to your specific audience/use case or link to this resource. 
